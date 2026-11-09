@@ -1,0 +1,21 @@
+segment,acquisition_channel,avg_order_value,avg_purchase_freq_per_month,avg_lifespan_months,customer_count,avg_historical_ltv,predicted_ltv
+High-Value / Champion,Affiliate,513.84,0.84,12.65,332,4824.56,5487.24
+High-Value / Champion,Email,487.83,0.79,14.18,706,4546.39,5468.29
+High-Value / Champion,Organic Search,464.72,0.75,15.38,1810,4620.12,5334.94
+High-Value / Champion,Direct,455.48,0.71,16.17,1298,4672.7,5203.91
+High-Value / Champion,Paid Social,506.35,0.86,11.94,687,4322.31,5186.4
+Loyal / Growing,Paid Social,461.82,0.9,7.39,1391,2198.46,3069.96
+Loyal / Growing,Email,423.66,0.81,8.64,977,2081.49,2979.25
+Loyal / Growing,Organic Search,408.12,0.75,9.41,2087,2007.21,2896.96
+Loyal / Growing,Affiliate,429.62,0.91,7.39,633,2090.84,2890.52
+Loyal / Growing,Direct,398.2,0.73,9.62,1489,1920.67,2806.85
+At Risk,Email,393.48,0.95,4.52,1133,951.62,1693.92
+At Risk,Direct,350.75,0.93,4.98,1364,858.86,1626.32
+At Risk,Affiliate,377.8,1.05,4.01,801,929.44,1594.67
+At Risk,Organic Search,349.8,0.93,4.81,2073,861.9,1560.96
+At Risk,Paid Social,389.11,1.04,3.85,2082,951.23,1549.83
+Low-Value / Churned,Affiliate,248.03,1.07,1.72,838,339.26,458.84
+Low-Value / Churned,Direct,223.94,1.04,1.92,1084,310.27,446.77
+Low-Value / Churned,Paid Social,246.89,1.09,1.63,2381,331.77,438.25
+Low-Value / Churned,Email,230.28,1.03,1.81,1037,312.7,430.73
+Low-Value / Churned,Organic Search,210.16,1.03,1.99,1705,292.83,430.51
