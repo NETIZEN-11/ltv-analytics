@@ -1,0 +1,501 @@
+product_id,category,unit_price
+PROD1001,Toys & Games,69.74
+PROD1002,Electronics,115.95
+PROD1003,Electronics,740.95
+PROD1004,Toys & Games,108.94
+PROD1005,Apparel,127.41
+PROD1006,Home & Kitchen,77.84
+PROD1007,Home & Kitchen,262.52
+PROD1008,Home & Kitchen,121.03
+PROD1009,Toys & Games,20.62
+PROD1010,Electronics,705.2
+PROD1011,Toys & Games,71.86
+PROD1012,Toys & Games,67.79
+PROD1013,Sports & Outdoors,23.44
+PROD1014,Electronics,397.86
+PROD1015,Sports & Outdoors,28.23
+PROD1016,Beauty,54.63
+PROD1017,Electronics,277.7
+PROD1018,Electronics,721.33
+PROD1019,Electronics,642.88
+PROD1020,Home & Kitchen,225.71
+PROD1021,Home & Kitchen,245.93
+PROD1022,Sports & Outdoors,187.97
+PROD1023,Sports & Outdoors,223.0
+PROD1024,Electronics,453.65
+PROD1025,Sports & Outdoors,238.02
+PROD1026,Home & Kitchen,79.89
+PROD1027,Toys & Games,37.31
+PROD1028,Toys & Games,27.87
+PROD1029,Toys & Games,20.93
+PROD1030,Sports & Outdoors,59.39
+PROD1031,Beauty,51.99
+PROD1032,Home & Kitchen,246.73
+PROD1033,Beauty,48.0
+PROD1034,Sports & Outdoors,209.48
+PROD1035,Apparel,54.71
+PROD1036,Books,21.45
+PROD1037,Books,36.31
+PROD1038,Electronics,774.11
+PROD1039,Books,36.65
+PROD1040,Books,19.11
+PROD1041,Home & Kitchen,186.89
+PROD1042,Toys & Games,32.99
+PROD1043,Beauty,61.55
+PROD1044,Apparel,125.89
+PROD1045,Apparel,65.57
+PROD1046,Home & Kitchen,20.56
+PROD1047,Home & Kitchen,24.22
+PROD1048,Books,31.02
+PROD1049,Apparel,133.14
+PROD1050,Electronics,768.46
+PROD1051,Electronics,656.15
+PROD1052,Beauty,47.89
+PROD1053,Electronics,210.69
+PROD1054,Apparel,34.87
+PROD1055,Books,12.67
+PROD1056,Apparel,149.83
+PROD1057,Sports & Outdoors,17.21
+PROD1058,Apparel,149.55
+PROD1059,Books,33.87
+PROD1060,Electronics,622.19
+PROD1061,Toys & Games,37.2
+PROD1062,Beauty,56.15
+PROD1063,Sports & Outdoors,55.79
+PROD1064,Electronics,637.55
+PROD1065,Beauty,65.52
+PROD1066,Electronics,186.77
+PROD1067,Sports & Outdoors,178.74
+PROD1068,Apparel,72.1
+PROD1069,Books,33.22
+PROD1070,Toys & Games,63.51
+PROD1071,Sports & Outdoors,169.15
+PROD1072,Books,23.04
+PROD1073,Apparel,79.41
+PROD1074,Sports & Outdoors,210.61
+PROD1075,Home & Kitchen,181.47
+PROD1076,Toys & Games,109.49
+PROD1077,Electronics,359.84
+PROD1078,Electronics,149.57
+PROD1079,Toys & Games,109.64
+PROD1080,Home & Kitchen,137.02
+PROD1081,Books,33.71
+PROD1082,Apparel,95.16
+PROD1083,Electronics,421.38
+PROD1084,Books,29.11
+PROD1085,Home & Kitchen,204.22
+PROD1086,Books,26.71
+PROD1087,Electronics,337.0
+PROD1088,Beauty,77.64
+PROD1089,Apparel,68.48
+PROD1090,Beauty,63.19
+PROD1091,Toys & Games,73.41
+PROD1092,Books,26.59
+PROD1093,Apparel,142.41
+PROD1094,Home & Kitchen,146.55
+PROD1095,Apparel,41.41
+PROD1096,Apparel,125.87
+PROD1097,Home & Kitchen,262.19
+PROD1098,Toys & Games,81.73
+PROD1099,Apparel,85.99
+PROD1100,Toys & Games,40.35
+PROD1101,Toys & Games,100.36
+PROD1102,Toys & Games,25.62
+PROD1103,Electronics,624.28
+PROD1104,Sports & Outdoors,28.79
+PROD1105,Toys & Games,42.72
+PROD1106,Home & Kitchen,195.85
+PROD1107,Sports & Outdoors,247.95
+PROD1108,Toys & Games,80.69
+PROD1109,Home & Kitchen,37.31
+PROD1110,Home & Kitchen,166.14
+PROD1111,Beauty,70.68
+PROD1112,Beauty,11.45
+PROD1113,Apparel,125.42
+PROD1114,Toys & Games,28.08
+PROD1115,Toys & Games,64.34
+PROD1116,Sports & Outdoors,199.95
+PROD1117,Home & Kitchen,148.18
+PROD1118,Toys & Games,86.77
+PROD1119,Apparel,37.19
+PROD1120,Books,19.52
+PROD1121,Books,8.66
+PROD1122,Books,25.58
+PROD1123,Electronics,791.76
+PROD1124,Home & Kitchen,87.12
+PROD1125,Books,15.18
+PROD1126,Electronics,215.75
+PROD1127,Books,36.33
+PROD1128,Apparel,94.34
+PROD1129,Beauty,20.87
+PROD1130,Apparel,46.95
+PROD1131,Electronics,603.05
+PROD1132,Home & Kitchen,85.11
+PROD1133,Sports & Outdoors,231.06
+PROD1134,Toys & Games,31.34
+PROD1135,Apparel,124.57
+PROD1136,Home & Kitchen,128.38
+PROD1137,Toys & Games,16.94
+PROD1138,Beauty,75.63
+PROD1139,Beauty,15.57
+PROD1140,Toys & Games,19.31
+PROD1141,Beauty,44.86
+PROD1142,Home & Kitchen,289.53
+PROD1143,Apparel,103.38
+PROD1144,Home & Kitchen,22.59
+PROD1145,Home & Kitchen,278.14
+PROD1146,Toys & Games,82.85
+PROD1147,Sports & Outdoors,29.59
+PROD1148,Sports & Outdoors,150.29
+PROD1149,Apparel,110.87
+PROD1150,Toys & Games,58.15
+PROD1151,Sports & Outdoors,61.93
+PROD1152,Beauty,56.42
+PROD1153,Sports & Outdoors,45.78
+PROD1154,Beauty,68.59
+PROD1155,Apparel,15.59
+PROD1156,Home & Kitchen,250.39
+PROD1157,Home & Kitchen,45.89
+PROD1158,Sports & Outdoors,206.45
+PROD1159,Beauty,19.45
+PROD1160,Electronics,457.87
+PROD1161,Books,28.63
+PROD1162,Electronics,105.35
+PROD1163,Books,14.41
+PROD1164,Electronics,615.58
+PROD1165,Home & Kitchen,71.68
+PROD1166,Toys & Games,116.18
+PROD1167,Home & Kitchen,136.52
+PROD1168,Books,37.16
+PROD1169,Toys & Games,20.63
+PROD1170,Beauty,15.09
+PROD1171,Sports & Outdoors,131.73
+PROD1172,Electronics,585.17
+PROD1173,Beauty,16.79
+PROD1174,Beauty,25.94
+PROD1175,Sports & Outdoors,142.53
+PROD1176,Beauty,19.86
+PROD1177,Sports & Outdoors,36.17
+PROD1178,Apparel,106.83
+PROD1179,Sports & Outdoors,18.53
+PROD1180,Books,27.78
+PROD1181,Electronics,619.04
+PROD1182,Toys & Games,49.68
+PROD1183,Toys & Games,90.43
+PROD1184,Electronics,161.75
+PROD1185,Toys & Games,51.68
+PROD1186,Sports & Outdoors,169.18
+PROD1187,Books,29.89
+PROD1188,Apparel,143.91
+PROD1189,Books,11.27
+PROD1190,Toys & Games,34.44
+PROD1191,Apparel,75.75
+PROD1192,Electronics,541.47
+PROD1193,Apparel,121.1
+PROD1194,Beauty,45.22
+PROD1195,Home & Kitchen,105.38
+PROD1196,Beauty,70.18
+PROD1197,Electronics,428.67
+PROD1198,Toys & Games,54.05
+PROD1199,Toys & Games,31.3
+PROD1200,Apparel,27.0
+PROD1201,Sports & Outdoors,83.11
+PROD1202,Books,15.08
+PROD1203,Home & Kitchen,206.68
+PROD1204,Sports & Outdoors,138.32
+PROD1205,Electronics,567.23
+PROD1206,Books,37.77
+PROD1207,Toys & Games,44.66
+PROD1208,Apparel,26.3
+PROD1209,Books,38.53
+PROD1210,Toys & Games,111.85
+PROD1211,Sports & Outdoors,110.19
+PROD1212,Sports & Outdoors,201.36
+PROD1213,Home & Kitchen,201.22
+PROD1214,Home & Kitchen,147.68
+PROD1215,Apparel,122.64
+PROD1216,Books,33.51
+PROD1217,Home & Kitchen,62.49
+PROD1218,Sports & Outdoors,78.88
+PROD1219,Books,29.83
+PROD1220,Sports & Outdoors,66.02
+PROD1221,Electronics,453.03
+PROD1222,Sports & Outdoors,56.02
+PROD1223,Apparel,128.47
+PROD1224,Beauty,79.61
+PROD1225,Electronics,896.77
+PROD1226,Electronics,856.72
+PROD1227,Apparel,79.55
+PROD1228,Books,22.66
+PROD1229,Books,7.14
+PROD1230,Apparel,139.47
+PROD1231,Home & Kitchen,207.02
+PROD1232,Electronics,642.91
+PROD1233,Home & Kitchen,250.16
+PROD1234,Sports & Outdoors,108.7
+PROD1235,Electronics,346.01
+PROD1236,Electronics,143.95
+PROD1237,Toys & Games,77.54
+PROD1238,Beauty,31.05
+PROD1239,Books,20.85
+PROD1240,Electronics,874.97
+PROD1241,Books,38.36
+PROD1242,Sports & Outdoors,245.96
+PROD1243,Books,27.03
+PROD1244,Home & Kitchen,36.69
+PROD1245,Home & Kitchen,193.96
+PROD1246,Toys & Games,18.14
+PROD1247,Beauty,32.66
+PROD1248,Sports & Outdoors,209.16
+PROD1249,Home & Kitchen,286.18
+PROD1250,Apparel,125.15
+PROD1251,Sports & Outdoors,123.85
+PROD1252,Books,34.0
+PROD1253,Sports & Outdoors,146.66
+PROD1254,Beauty,8.96
+PROD1255,Home & Kitchen,176.92
+PROD1256,Sports & Outdoors,239.88
+PROD1257,Books,7.81
+PROD1258,Toys & Games,104.27
+PROD1259,Toys & Games,29.52
+PROD1260,Home & Kitchen,212.27
+PROD1261,Toys & Games,110.58
+PROD1262,Apparel,130.82
+PROD1263,Beauty,21.17
+PROD1264,Toys & Games,31.56
+PROD1265,Toys & Games,78.83
+PROD1266,Apparel,118.63
+PROD1267,Beauty,75.04
+PROD1268,Sports & Outdoors,203.24
+PROD1269,Beauty,23.1
+PROD1270,Electronics,547.3
+PROD1271,Home & Kitchen,79.35
+PROD1272,Home & Kitchen,80.82
+PROD1273,Electronics,290.14
+PROD1274,Apparel,105.81
+PROD1275,Electronics,497.63
+PROD1276,Sports & Outdoors,39.34
+PROD1277,Sports & Outdoors,192.77
+PROD1278,Home & Kitchen,289.29
+PROD1279,Sports & Outdoors,72.69
+PROD1280,Home & Kitchen,198.48
+PROD1281,Electronics,192.6
+PROD1282,Electronics,811.63
+PROD1283,Toys & Games,66.69
+PROD1284,Toys & Games,111.54
+PROD1285,Electronics,67.75
+PROD1286,Home & Kitchen,163.42
+PROD1287,Electronics,884.84
+PROD1288,Electronics,117.21
+PROD1289,Books,16.14
+PROD1290,Apparel,32.48
+PROD1291,Electronics,790.8
+PROD1292,Sports & Outdoors,25.51
+PROD1293,Home & Kitchen,233.35
+PROD1294,Apparel,141.75
+PROD1295,Toys & Games,99.57
+PROD1296,Beauty,78.22
+PROD1297,Home & Kitchen,43.91
+PROD1298,Sports & Outdoors,229.68
+PROD1299,Home & Kitchen,287.72
+PROD1300,Toys & Games,116.39
+PROD1301,Sports & Outdoors,23.16
+PROD1302,Sports & Outdoors,152.91
+PROD1303,Beauty,74.11
+PROD1304,Home & Kitchen,211.38
+PROD1305,Books,33.71
+PROD1306,Beauty,55.1
+PROD1307,Books,17.58
+PROD1308,Beauty,28.5
+PROD1309,Home & Kitchen,135.85
+PROD1310,Electronics,691.2
+PROD1311,Electronics,656.08
+PROD1312,Toys & Games,112.97
+PROD1313,Beauty,77.71
+PROD1314,Apparel,42.09
+PROD1315,Beauty,52.2
+PROD1316,Beauty,68.68
+PROD1317,Beauty,60.99
+PROD1318,Books,33.17
+PROD1319,Toys & Games,50.71
+PROD1320,Electronics,352.38
+PROD1321,Toys & Games,94.02
+PROD1322,Toys & Games,118.47
+PROD1323,Toys & Games,107.31
+PROD1324,Electronics,522.63
+PROD1325,Electronics,719.23
+PROD1326,Beauty,24.25
+PROD1327,Toys & Games,15.89
+PROD1328,Apparel,13.29
+PROD1329,Books,17.86
+PROD1330,Books,33.39
+PROD1331,Electronics,773.15
+PROD1332,Home & Kitchen,82.13
+PROD1333,Home & Kitchen,83.86
+PROD1334,Home & Kitchen,195.18
+PROD1335,Sports & Outdoors,197.5
+PROD1336,Beauty,77.92
+PROD1337,Home & Kitchen,216.13
+PROD1338,Beauty,40.04
+PROD1339,Home & Kitchen,30.83
+PROD1340,Apparel,26.12
+PROD1341,Beauty,55.01
+PROD1342,Home & Kitchen,56.81
+PROD1343,Books,7.67
+PROD1344,Electronics,346.66
+PROD1345,Beauty,70.26
+PROD1346,Books,19.26
+PROD1347,Books,28.62
+PROD1348,Books,13.08
+PROD1349,Sports & Outdoors,31.5
+PROD1350,Electronics,640.44
+PROD1351,Electronics,531.65
+PROD1352,Toys & Games,78.72
+PROD1353,Sports & Outdoors,145.97
+PROD1354,Books,9.88
+PROD1355,Electronics,532.25
+PROD1356,Electronics,337.87
+PROD1357,Books,10.27
+PROD1358,Books,36.86
+PROD1359,Home & Kitchen,77.6
+PROD1360,Home & Kitchen,288.86
+PROD1361,Beauty,54.04
+PROD1362,Beauty,14.24
+PROD1363,Beauty,34.03
+PROD1364,Home & Kitchen,51.66
+PROD1365,Books,12.13
+PROD1366,Beauty,10.34
+PROD1367,Electronics,697.33
+PROD1368,Home & Kitchen,288.66
+PROD1369,Beauty,38.57
+PROD1370,Electronics,133.71
+PROD1371,Beauty,78.45
+PROD1372,Apparel,53.8
+PROD1373,Books,18.8
+PROD1374,Books,12.23
+PROD1375,Beauty,72.44
+PROD1376,Apparel,131.2
+PROD1377,Beauty,46.49
+PROD1378,Toys & Games,102.93
+PROD1379,Toys & Games,102.9
+PROD1380,Books,29.15
+PROD1381,Sports & Outdoors,176.25
+PROD1382,Toys & Games,24.74
+PROD1383,Toys & Games,82.0
+PROD1384,Beauty,27.25
+PROD1385,Home & Kitchen,257.72
+PROD1386,Home & Kitchen,225.01
+PROD1387,Apparel,13.54
+PROD1388,Home & Kitchen,84.17
+PROD1389,Electronics,642.05
+PROD1390,Sports & Outdoors,18.05
+PROD1391,Toys & Games,92.57
+PROD1392,Sports & Outdoors,204.75
+PROD1393,Electronics,593.6
+PROD1394,Toys & Games,91.89
+PROD1395,Apparel,44.23
+PROD1396,Electronics,841.53
+PROD1397,Electronics,880.21
+PROD1398,Sports & Outdoors,249.52
+PROD1399,Beauty,52.94
+PROD1400,Sports & Outdoors,88.36
+PROD1401,Books,10.46
+PROD1402,Sports & Outdoors,202.42
+PROD1403,Home & Kitchen,82.29
+PROD1404,Electronics,390.76
+PROD1405,Sports & Outdoors,164.61
+PROD1406,Electronics,86.76
+PROD1407,Books,31.1
+PROD1408,Home & Kitchen,262.56
+PROD1409,Electronics,74.26
+PROD1410,Sports & Outdoors,54.78
+PROD1411,Electronics,515.1
+PROD1412,Toys & Games,31.73
+PROD1413,Books,13.18
+PROD1414,Home & Kitchen,99.99
+PROD1415,Beauty,57.54
+PROD1416,Electronics,610.15
+PROD1417,Sports & Outdoors,193.36
+PROD1418,Home & Kitchen,290.83
+PROD1419,Sports & Outdoors,57.89
+PROD1420,Sports & Outdoors,113.26
+PROD1421,Electronics,735.84
+PROD1422,Sports & Outdoors,206.89
+PROD1423,Electronics,519.11
+PROD1424,Beauty,8.28
+PROD1425,Toys & Games,75.18
+PROD1426,Sports & Outdoors,100.88
+PROD1427,Sports & Outdoors,61.32
+PROD1428,Sports & Outdoors,82.4
+PROD1429,Apparel,56.31
+PROD1430,Apparel,142.8
+PROD1431,Home & Kitchen,107.31
+PROD1432,Toys & Games,52.8
+PROD1433,Toys & Games,39.8
+PROD1434,Apparel,66.44
+PROD1435,Home & Kitchen,122.25
+PROD1436,Apparel,110.58
+PROD1437,Beauty,49.12
+PROD1438,Home & Kitchen,222.74
+PROD1439,Toys & Games,107.6
+PROD1440,Toys & Games,55.54
+PROD1441,Apparel,53.99
+PROD1442,Beauty,13.55
+PROD1443,Apparel,117.63
+PROD1444,Books,35.76
+PROD1445,Electronics,803.92
+PROD1446,Electronics,298.79
+PROD1447,Beauty,58.27
+PROD1448,Sports & Outdoors,39.43
+PROD1449,Sports & Outdoors,174.43
+PROD1450,Electronics,247.8
+PROD1451,Electronics,616.29
+PROD1452,Sports & Outdoors,171.43
+PROD1453,Home & Kitchen,37.64
+PROD1454,Sports & Outdoors,30.61
+PROD1455,Apparel,104.45
+PROD1456,Home & Kitchen,138.99
+PROD1457,Apparel,84.22
+PROD1458,Electronics,873.42
+PROD1459,Home & Kitchen,277.15
+PROD1460,Apparel,98.66
+PROD1461,Apparel,56.37
+PROD1462,Home & Kitchen,84.82
+PROD1463,Beauty,46.63
+PROD1464,Books,19.83
+PROD1465,Sports & Outdoors,186.41
+PROD1466,Toys & Games,18.07
+PROD1467,Apparel,45.04
+PROD1468,Sports & Outdoors,12.04
+PROD1469,Books,12.43
+PROD1470,Toys & Games,8.09
+PROD1471,Sports & Outdoors,200.14
+PROD1472,Electronics,99.08
+PROD1473,Toys & Games,24.04
+PROD1474,Books,34.22
+PROD1475,Sports & Outdoors,72.08
+PROD1476,Apparel,22.43
+PROD1477,Toys & Games,84.75
+PROD1478,Electronics,91.16
+PROD1479,Home & Kitchen,157.0
+PROD1480,Apparel,39.15
+PROD1481,Electronics,77.98
+PROD1482,Electronics,876.95
+PROD1483,Toys & Games,83.32
+PROD1484,Sports & Outdoors,75.85
+PROD1485,Home & Kitchen,124.98
+PROD1486,Apparel,114.79
+PROD1487,Apparel,99.76
+PROD1488,Sports & Outdoors,201.25
+PROD1489,Home & Kitchen,273.7
+PROD1490,Toys & Games,45.48
+PROD1491,Apparel,93.38
+PROD1492,Home & Kitchen,276.61
+PROD1493,Toys & Games,35.64
+PROD1494,Toys & Games,73.52
+PROD1495,Books,31.81
+PROD1496,Apparel,31.31
+PROD1497,Sports & Outdoors,165.87
+PROD1498,Beauty,54.85
+PROD1499,Apparel,69.86
+PROD1500,Books,31.96
